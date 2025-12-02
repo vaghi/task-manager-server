@@ -4,7 +4,7 @@ A RESTful API built with ASP.NET Core Web API for managing tasks.
 
 ## How to Run
 
-1.  **Prerequisites**: Ensure you have the .NET 8.0 SDK installed.
+1.  **Prerequisites**: Ensure you have the .NET 10.0 SDK installed.
 2.  **Restore & Run**:
     ```bash
     dotnet restore
